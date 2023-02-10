@@ -156,31 +156,31 @@ p {
 	color: #fff;
 }
 
-.right-banner-content .social-icons {
+.left-banner-content .social-icons {
 	margin-top: 40px;
 	padding: 0;
 	list-style: none;
 }
 
-.right-banner-content .social-icons li {
+.left-banner-content .social-icons li {
 	display: inline-block;
 	margin: 0px 3px;
 }
 
-.right-banner-content .social-icons li a {
+.left-banner-content .social-icons li a {
 	width: 70px;
 	height: 70px;
 	text-align: center;
 	display: inline-block;
 	line-height: 70px;
-	background-color: #fff;
+	background-color: #4d4d4d;
 	border-radius: 50%;
 	transition: all 0.5s;
 	color: #c2723d;
 	font-size: 30px;
 }
 
-.right-banner-content .social-icons li a:hover {
+.left-banner-content .social-icons li a:hover {
 	background-color: #613023
 }
 
